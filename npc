@@ -1,0 +1,171 @@
+[symple_box color="gray" fade_in="false" float="center" text_align="left" width=""]
+<ul>
+	<li>Auteur : Noppes</li>
+	<li>Versions : 1.3.2 à 1.7.10</li>
+</ul>
+[/symple_box]
+<p style="text-align: justify;">Beaucoup de joueurs s'initie au <strong>RP</strong>. En effet, jouer de façon <em><strong>RolePlay</strong></em> est très répandu dans le monde minecraftien car celui-ci donne un <strong>rôle</strong> particulier au joueur et le fait se sentir important dans une société minecraftienne. De nombreux serveurs se spécialisent dans cette façon de jouer afin de <em>donner vie</em> à leur communauté<em>.</em> Aujourd'hui, des développeurs inventent des mods capable de créer des PNJs <em>intelligents</em> pour que les joueurs puissent créer leur monde et donc leur histoire.</p>
+<p style="text-align: justify;"><strong>Noppes</strong>, le créateur de <strong>Custom NPCs</strong>, a vraiment réussi à développer un mod regroupant de multiples fonctions permettant de créer des PNJs avec des caractères différents. Il offre donc la possibilité aux joueurs de fabriquer une multitude de personnages et tout cela pour le bonheur de tous !</p>
+
+<h3 style="text-align: justify;"><strong>Description</strong></h3>
+<p style="text-align: justify;">Afin de commencer à créer des personnages, il faut d'abord présenter les outils qui serviront à ces création. Il existe quatre objets, qui ont chacun des particularités différentes.</p>
+<p style="text-align: justify;">[su_tabs vertical="yes"][su_tab title="La NPC Wand (Houe)"] Cet objet, très important, permettra aux joueurs de créer un PNJ et de le modifier par la suite.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-7952" src="http://epicube.fr/wp-content/uploads/2014/12/wooden_hoe.png" alt="wooden_hoe" width="150" height="150" /><img class="size-full wp-image-8058 aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/13.png" alt="13" width="238" height="112" /></p>
+<p style="text-align: justify;">[/su_tab] [su_tab title="La NPC Pather (Epée)"] Grâce à cet objet le joueur pourra tracer ses PNJs. Il pourra définir le chemin du personnage.</p>
+<p style="text-align: justify;"><a href="http://epicube.fr/wp-content/uploads/2014/12/woodensword_icon32.png"><img class="wp-image-7953 aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/woodensword_icon32-300x300.png" alt="woodensword_icon32" width="150" height="150" /></a></p>
+<p style="text-align: justify;">[/su_tab] [su_tab title="Mob cloner (Hache)"] Comme son nom l'indique, cet item permet de faire apparaitre tous les mobs du jeu ainsi que des spawners et des clones. <a href="http://epicube.fr/wp-content/uploads/2014/12/2961807809_1_7_tjDqxWP8.png"><img class="wp-image-7954 size-full aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/2961807809_1_7_tjDqxWP8.png" alt="2961807809_1_7_tjDqxWP8" width="150" height="150" /></a></p>
+<p style="text-align: justify;"><a href="http://epicube.fr/wp-content/uploads/2014/12/images.png"><img class="wp-image-8065 aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/images.png" alt="images" width="238" height="111" /></a> [/su_tab] [su_tab title="Scripter (Pelle)"] Cet objet ci, est en quelque sorte la console de chaque PNJs. Il permettra d'y insérer un script pour indiquer ce que votre personnage devra faire.</p>
+<a href="http://epicube.fr/wp-content/uploads/2014/12/2961814205_1_3_ViJQkT0r.png"><img class="wp-image-7951 size-full aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/2961814205_1_3_ViJQkT0r.png" alt="2961814205_1_3_ViJQkT0r" width="150" height="150" /></a>
+
+[/su_tab][/su_tabs]
+<p style="text-align: justify;">Et ce n'est pas tout ! Ce mod, en plus de pouvoir créer des <strong>PNJs, </strong>rajoute tout un tas d'items qui serviront à pimenter les parties !</p>
+[gallery columns="2" link="file" ids="8760,8761,8762,8763,8765,8764"]
+<p style="text-align: justify;">Il est à présent temps de passer au vif du sujet, il s'agit bien évidemment de la création d'un PNJ !</p>
+<p style="text-align: justify;">Pour créer un personnage il faut d'abord se munir de la <strong>NPC Wand</strong> puis faire un clique droit. Une fenêtre de ce type s'ouvrira :</p>
+&nbsp;
+<p style="text-align: justify;"><a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_11.27.42.png"><img class="wp-image-8459 aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_11.27.42.png" alt="" width="671" height="266" /></a></p>
+
+<ul>
+	<li style="text-align: justify;"><strong>Nom</strong> : Nom du personnage / <strong>Montrer</strong> : Voir le nom apparaître ou non</li>
+	<li style="text-align: justify;"><strong>Titre</strong> : Titre du personnage (Exemples : Fermier, Citoyen...)</li>
+	<li style="text-align: justify;"><strong>Modèle</strong> : C'est ici que l'apparence du personnage pourra être modifiée.</li>
+	<li style="text-align: justify;"><strong>Modèle</strong> : Ici la modification sera portée sur le skin. Le joueur pourra choisir un skin présent dans le mod ou un de son choix.</li>
+	<li style="text-align: justify;"><strong>Cape</strong> : Le joueur pourra habiller son personnage avec une cape.</li>
+	<li style="text-align: justify;"><strong>Overlay</strong> : Modifications des yeux.</li>
+	<li style="text-align: justify;"><strong>Est animé</strong> : Apparition d'animation (Mouvement des bras lors de la respiration...)</li>
+	<li style="text-align: justify;"><strong>Visible</strong> : Si non, le personnage sera à l'état transparent tel un fantôme.</li>
+	<li style="text-align: justify;"><strong>BossBar : </strong>Si le personnage crée est un boss, cela sera ça barre de vie.</li>
+</ul>
+<h3 style="text-align: center;"><span style="text-decoration: underline;">Stats</span></h3>
+&nbsp;
+
+[caption id="attachment_8463" align="aligncenter" width="854"]<a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_11.28.33.png"><img class="wp-image-8463 size-full" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_11.28.33.png" alt="2014-12-07_11.28.33" width="854" height="480" /></a> Dans cet interface, se trouve toutes les statistiques qu'aura le personnage.[/caption]
+
+&nbsp;
+<ul>
+	<li style="text-align: justify;"><strong>Santé</strong> : Nombre de cœurs du personnage.</li>
+	<li style="text-align: justify;"><strong>Respawn</strong> : Dans cet interface, il est possible de changer le temps de réapparition, de cacher ou non le corps du personnage, une fois tué, et de choisir une disparition naturelle.</li>
+	<li style="text-align: justify;"><strong>Portée d'aggro</strong> : Distance où le PNJ attaquera les ennemis.</li>
+	<li style="text-align: justify;"><strong>Type de créature</strong> : Type de monstres que le personnage attaquera.</li>
+	<li style="text-align: justify;"><strong>Vitesse de marche</strong> : Vitesse à laquelle marchera le personnage.</li>
+	<li style="text-align: justify;"><strong>Immunisé au feu</strong> : Si oui, le personnage ne sera pas affecté par les dégâts de feu.</li>
+	<li style="text-align: justify;"><strong>Brûle au soleil</strong> : Si oui, le personnage brûlera à la vue du soleil tel un mob.</li>
+	<li style="text-align: justify;"><strong>Peut se noyer</strong> : Le PNJ pourra se noyer ou non.</li>
+	<li style="text-align: justify;"><strong>Pas de dégâts</strong> : Le personnage ne fera aucun dommage sur les ennemis.</li>
+	<li style="text-align: justify;"><strong>Se régénère</strong> : Nombre de cœurs que votre PNJ se régénéra hors combat.</li>
+	<li style="text-align: justify;"><strong>Combat régen</strong> : Nombre de cœurs récupérés pendant un combat.</li>
+</ul>
+<p style="text-align: justify;"><strong><span style="text-decoration: underline;">Option mêlée</span> :</strong></p>
+
+<ul style="text-align: justify;">
+	<li><strong>Force Mêlée</strong> : Puissance de votre personnage.</li>
+	<li><strong>Distance Mêlée</strong> : Distance d'attaque.</li>
+	<li><strong>Vitesse Mêlée</strong> : Vitesse d'attaque.</li>
+	<li><strong>Recul</strong> : Puissance du recul à chaque coups portés</li>
+	<li><strong>Effet(s)</strong> : Effet que procurera les coups ( Ralentissement, nausée...)</li>
+</ul>
+<p style="text-align: justify;"><strong><span style="text-decoration: underline;">Option de distance</span> :</strong></p>
+
+<ul style="text-align: justify;">
+	<li><strong>Précision</strong> : Précision de votre personnage à l'arc par exemple.</li>
+	<li><strong>RangedRange</strong> : Portée de votre PNJ</li>
+	<li><strong>MinDelay</strong> : Intervalle minimum entre chaque tirs</li>
+	<li><strong>MaxDelay</strong> : Intervalle maximum entre chaque tirs</li>
+	<li><strong>FireRate</strong> : Vitesse de la flèche tirée.</li>
+	<li><strong>SoundFX</strong> : Son du tir</li>
+</ul>
+<p style="text-align: justify;"><span style="text-decoration: underline;"><strong>Résistance</strong></span> :</p>
+
+<ul style="text-align: justify;">
+	<li><strong>Recul</strong> : Résistance à l'effet de recul.</li>
+	<li><strong>Flèche</strong> : Résistance au recul portées par les flèches.</li>
+	<li><strong>Mêlée</strong> : Résistance aux dégâts physiques.</li>
+</ul>
+<p style="text-align: justify;"><strong><span style="text-decoration: underline;">Type de projectile</span> :</strong></p>
+
+<ul>
+	<li style="text-align: justify;"><strong>Puissance</strong> : Dégâts du projectile.</li>
+	<li style="text-align: justify;"><strong>Taille</strong> : Taille du projectile.</li>
+	<li style="text-align: justify;"><strong>Vitesse</strong> : Vitesse du projectile.</li>
+	<li style="text-align: justify;"><strong>Gravité</strong> : Si non, il est possible de ralentir ou d'accélérer la chute du projectile.</li>
+	<li style="text-align: justify;"><strong>Explosion</strong> : À la chute du projectile, il y aura un plus ou moins grande explosion.</li>
+	<li style="text-align: justify;"><strong>Effet</strong> : Le projectile, s'il touche sa cible, donnera un effet (feu...).</li>
+	<li style="text-align: justify;"><strong>Trainée</strong> : Ce que laissera le projectile lors de sa chute.</li>
+</ul>
+<h3 style="text-align: center;"><span style="text-decoration: underline;">AI
+</span></h3>
+&nbsp;
+
+[caption id="attachment_8596" align="aligncenter" width="854"]<a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_19.42.10.png"><img class="wp-image-8596 size-full" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_19.42.10.png" alt="2014-12-07_19.42.10" width="854" height="480" /></a> Cet interface permettra de définir les actions que pourra effectuer le personnage avec le décors.[/caption]
+
+&nbsp;
+<ul>
+	<li style="text-align: justify;"><strong>OnFoundEnemy</strong> : Cela définira la réaction de votre personnage lors de la rencontre avec un ennemi</li>
+	<li style="text-align: justify;"><strong>DoorInteract</strong> : Si le PNJ pourra interagir avec les portes.</li>
+	<li style="text-align: justify;"><strong>CanSwin</strong> : Si oui, le personnage pourra nager.</li>
+	<li style="text-align: justify;"><strong>ShelterFrom</strong> : Le NPC se mettra à l'abri du jour ou de la nuit.</li>
+	<li style="text-align: justify;"><strong>MustSeeTarget</strong> : Définira si le personnage cherchera un ennemi ou non.</li>
+	<li style="text-align: justify;"><strong>CanSprint</strong> : Si oui, le personnage pourra courir.</li>
+	<li style="text-align: justify;"><strong>AvoidsWater</strong> : Si oui, le PNJ évitera l'eau.</li>
+	<li style="text-align: justify;"><strong>ReturnToStart</strong> : Définie si oui ou non, après chaque actions le PNJ retourne à son point de départ.</li>
+	<li style="text-align: justify;"><strong>LeapAtTarget</strong> : Définie si le personnage exécutera sa cible.</li>
+	<li style="text-align: justify;"><strong>CanFireIndirect</strong> : Définie s'il pourra enflammer un ennemi indirectement.</li>
+	<li style="text-align: justify;"><strong>UseRangeAttack</strong> : Définie lorsque le PNJ utilisera ses attaques à distances.</li>
+	<li style="text-align: justify;"><strong>TacticalVariant</strong> : Définie les tactiques de combat du personnage.</li>
+	<li style="text-align: justify;"><strong>CobwebAffected</strong> : Définit si le NPC sera affecté par les toiles d'araignées.</li>
+</ul>
+<strong><span style="text-decoration: underline;">Movement</span> :</strong>
+<ul>
+	<li style="text-align: justify;"><strong>Moving Type</strong> : Définie comment se déplacera le personnage.</li>
+	<li style="text-align: justify;"><strong>Movement</strong> : Définie si le personnage se déplacera en boucle ou non.</li>
+	<li style="text-align: justify;"><strong>Animations</strong> : Définie l'animation du personnage lors du déplacement.</li>
+	<li style="text-align: justify;"><strong>Pauses</strong> : Définie si le NPC fera des pauses ou non.</li>
+</ul>
+<h3 style="text-align: center;"><span style="text-decoration: underline;"><strong>L'inventaire</strong></span></h3>
+&nbsp;
+<p style="text-align: center;"><a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-08_21.50.06.png"><img class="wp-image-8645 size-full aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-08_21.50.06.png" alt="2014-12-08_21.50.06" width="854" height="480" /></a></p>
+<p style="text-align: left;">L'inventaire du personnage définira ce qu'il aura à porter de mains, son expérience ainsi que les chances d'obtenir chaque items lorsque le joueur le tuera.</p>
+
+<h3 style="text-align: center;"><span style="text-decoration: underline;"><strong>Avancé</strong></span></h3>
+&nbsp;
+<p style="text-align: center;"><a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_19.42.18.png"><img class="alignnone wp-image-8718 size-full" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_19.42.18.png" alt="2014-12-07_19.42.18" width="854" height="480" /></a></p>
+
+<ul>
+	<li style="text-align: justify;"><strong>Role</strong> : Ici le joueur pourra définir un rôle pour le PNJ et modifier à sa guise ce que le personnage vendra s'il est marchand.</li>
+	<li style="text-align: justify;"><strong>Job</strong> : Ici ça ne sera pas un rôle mais un métier qui sera définit.</li>
+	<li style="text-align: justify;"><strong>Lines</strong> : Le joueur pourra entrer les différentes phrases que dira le NPC.</li>
+	<li style="text-align: justify;"><strong>Factions</strong> : Définie si le personnage appartiendra à une faction hostile, pacifiste ou neutre.</li>
+	<li style="text-align: justify;"><strong>Dialogs</strong> : Le joueur pourra définir les différents textes qu'entretiendra le PNJ avec lui.</li>
+	<li style="text-align: justify;"><strong>Sounds</strong> : Ici, il sera définit les différents sons que fera le PNJ en fonction de son état.</li>
+	<li style="text-align: justify;"><strong>Night</strong> : Le joueur pourra choisir de définir les caractéristiques du personnage uniquement le nuit ou le jour.</li>
+</ul>
+<h3 style="text-align: center;"><span style="text-decoration: underline;"><strong>Global</strong></span></h3>
+&nbsp;
+<p style="text-align: center;"><a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_19.42.20.png"><img class="wp-image-8719 size-full aligncenter" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-07_19.42.20.png" alt="2014-12-07_19.42.20" width="854" height="480" /></a></p>
+<p style="text-align: left;">Ici le joueur pourra modifier selon ses envies, les différentes factions, quêtes, dialogues ou même les transports !</p>
+<p style="text-align: left;"><strong><span style="text-decoration: underline;">Quelques exemples de PNJs</span> : </strong></p>
+[gallery link="file" ids="8720,8721,8722"]
+<h4 style="text-align: center;"><span style="text-decoration: underline;">Fonctionnement du NPC Pather</span></h4>
+<p style="text-align: justify;">Pour utiliser cet item, rien de plus simple ! Il suffit de faire un clique droit sur le personnage souhaité puis de définir son point de déplacement en cliquant une seconde fois sur le sol. Les coordonnées choisies seront donc ajoutées à l'item. Il ne restera plus qu'à faire remonter ces coordonnées en tête de liste et regarder le personnage se déplacer.</p>
+
+
+[caption id="attachment_8751" align="aligncenter" width="239"]<a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.49.png"><img class="wp-image-8751 size-medium" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.49-239x300.png" alt="2014-12-10_13.56.49" width="239" height="300" /></a> Voici à quoi ressemble l'interface.[/caption]
+<h4 style="text-align: center;"><span style="text-decoration: underline;">Fonctionnement du <strong>Mob Cloner</strong></span></h4>
+<p style="text-align: justify;">L'outil Mob Cloner, comme dit plus haut, est un objet permettant de cloner des personnages, faire apparaître des Mobs ou encore des spawners.</p>
+
+
+[caption id="attachment_8747" align="aligncenter" width="1297"]<a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.06.png"><img class="wp-image-8747 size-full" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.06.png" alt="2014-12-10_13.56.06" width="1297" height="937" /></a> Ici, le joueur pourra cloner ses personnages.[/caption]
+
+&nbsp;
+
+[caption id="attachment_8748" align="aligncenter" width="1024"]<a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.10.png"><img class="wp-image-8748 size-full" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.10.png" alt="2014-12-10_13.56.10" width="1024" height="929" /></a> Dans cette partie de l'interface, il est possible de faire apparaître de nombreux mobs.[/caption]
+
+&nbsp;
+
+[caption id="attachment_8749" align="aligncenter" width="1292"]<a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.20.png"><img class="wp-image-8749 size-full" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_13.56.20.png" alt="2014-12-10_13.56.20" width="1292" height="936" /></a> Cette partie ressemble grandement à la première présentée mais est utilisée sur les serveurs.[/caption]
+<h4 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scripter</strong></span></h4>
+[caption id="attachment_8756" align="aligncenter" width="1549"]<a href="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_14.40.15.png"><img class="wp-image-8756 size-full" src="http://epicube.fr/wp-content/uploads/2014/12/2014-12-10_14.40.15.png" alt="2014-12-10_14.40.15" width="1549" height="947" /></a> Voici l'interface du Scripter.[/caption]
+<h3><strong>Informations</strong></h3>
+<p style="text-align: center;">[btn url="http://www.kodevelopment.nl/minecraft/customnpcs/downloads/"]Téléchargement[/btn]</p>
+<p style="text-align: center;">[btn url="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs"]Lien original[/btn]</p>
+<p style="text-align: right;"><em>Miniature réalisée par MineSk0rm</em></p>
